@@ -13,8 +13,8 @@ setup(
     include_package_data=True,
     entry_points={'console_scripts': ['nearest_correlation = nearest_correlation.__main__:main']},
     zip_safe=False,
-    setup_requires=['pytest-runner'],
-    tests_require=['pytest'],
+    setup_requires=[],
+    tests_require=[],
     classifiers=[
         'Development Status :: 1 - Beta'
     ]
