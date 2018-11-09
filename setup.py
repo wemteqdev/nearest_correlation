@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="nearest_correlation",
-    packages=['nearest_correlation'],
+    packages=[],
     version="1.1.0",
     description="Python versions of nearest correlation matrix algorithms",
     author='Eka',
