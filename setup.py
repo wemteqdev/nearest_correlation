@@ -9,7 +9,7 @@ setup(
     author_email='cto@wemteq.com',
     url='https://github.com/wemteqdev/nearest_correlation',
     keywords=['algorithm'],
-    install_requires=['numpy>=1.11.3', 'scipy>=0.19.0'],
+    install_requires=['numpy', 'scipy'],
     include_package_data=True,
     entry_points={'console_scripts': ['nearest_correlation = nearest_correlation.__main__:main']},
     zip_safe=False,
