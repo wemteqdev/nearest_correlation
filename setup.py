@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name="nearest_correlation",
     py_modules = ['nearest_correlation']
-    version="1.1.0",
+    version="1.1.5",
     description="Python versions of nearest correlation matrix algorithms",
     author='Eka',
     author_email='cto@wemteq.com',
